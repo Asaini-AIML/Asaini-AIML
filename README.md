@@ -1,30 +1,57 @@
-# 💫 About Me:
-👋 Hello, World! I'm Anubhav Saini 👨‍💻<br>I'm a passionate Web Developer , Programmer with a love for all things tech. My journey in the world of programming started 2 years ago and since then, I've been constantly exploring and learning new technologies.<br>🔭 I’m currently working on RealEstate listings website.<br>🌱 I’m currently learning Mern, ML.<br>💬 Ask me about.---<br>📫 How to reach me: nav.saini2004@gmail.com//OR//https://www.linkedin.com/in/anubhav-saini-asaini-04254324b/.<br>😄 Pronouns: he/him.<br>
+# 🌟 Tech Lead with Clean Code and the Best DX
 
+I started as a data engineer due to my Mathematics background, then transitioned to web development, working with small and medium-sized companies. Recently, I’ve been collaborating in international SCRUM teams and mentoring others.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anubhavsaini_up11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anubhav-saini-asaini-04254324b/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asaini-AIML&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asaini-AIML&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaini-AIML&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asaini-AIML&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asaini-AIML&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+| My Favorite Tools | ![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect on [LinkedIn][] |
+| :---: | :---: |
+| ![badge-react][] ![badge-css][] ![badge-nodejs][] ![badge-postgres][] | ![banner][] |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asaini-AIML&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 Some Stats for the Geeky Ones
+
+### All Repos
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Israel-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true" />
+
+### Public Repos
+
+![stats][]  
+Stats by [tipsy/profile-summary-for-github][]
+
+---
+
+## 💡 Some of My Open-Source Contributions
+
+- [HTML-LESS-JS-no-webpack-starter](https://github.com/Israel-Laguan/HTML-LESS-JS-no-webpack-starter)
+- [HTML-CSS-JS-Webpack-starter](https://github.com/Israel-Laguan/HTML-CSS-JS-Webpack-starter)
+- [Express Production Template](https://github.com/Israel-Laguan/express-production-template)
+- [Thruster](https://github.com/thruster-rs/Thruster/issues?q=is%3Aissue+author%3AIsrael-Laguan+is%3Aclosed)
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine/issues/2800)
+- [Grommet Designer](https://github.com/grommet/grommet-designer/issues/12)
+- [Template String Parser](https://github.com/jalasem/templatestringparser/issues/created_by/Israel-Laguan)
+- [COVID Global Visualization](https://github.com/bahamon94/covid-global-visualization/issues/1)
+- [Vue Axios Vuex JWT](https://github.com/Erick2418/vue-axios-vuex-jwt/issues/1)
+- [Rails 6 Docker Quick Setup Postgres](https://github.com/hachi8833/rails6_docker_quicksetup_postgres/issues/1)
+- [Linters Config](https://github.com/microverseinc/linters-config/issues?q=is%3Aissue+author%3AIsrael-Laguan)
+- [T-TypeScript React](https://github.com/No-Country/c8-48-t-typescript-react/pulls?q=is%3Apr+author%3AIsrael-Laguan+is%3Aclosed)
+- [Enumerable Methods](https://github.com/collinsugwu/Microverse201-Enumerable-Methods/issues?q=is%3Aissue+author%3AIsrael-Laguan)
+- [IRLA Facebook](https://github.com/raheebwa/irla-facebook/issues?q=+is%3Aissue+author%3AIsrael-Laguan)
+- [Ruby Enumerables](https://github.com/wickathou/ruby-enumerables/issues/created_by/Israel-Laguan)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Israel-Laguan/Israel-Laguan)
+
+---
+
+[pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
+[email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
+[israellaguan@gmail.com]: mailto:israellaguan@gmail.com
+[linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
+[LinkedIn]: https://www.linkedin.com/in/israellaguan
+[badge-nodejs]: https://img.shields.io/badge/node.js-V14.x-339933?style=for-the-badge&logo=node.js
+[badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
+[badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
+[badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
+[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+[stats]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/github_stats.png
+[tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
